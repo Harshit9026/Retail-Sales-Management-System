@@ -60,8 +60,6 @@ Server-side pagination displays 10 items per page with Next/Previous navigation 
 
 3. Create `.env` file:
    ```
-   SUPABASE_URL=your_supabase_url
-   SUPABASE_ANON_KEY=your_supabase_anon_key
    PORT=3000
    ```
 
